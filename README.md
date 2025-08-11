@@ -7,6 +7,7 @@ Data project analyzing ecological impact of water hyacinth in Alleppey canals, K
 ## 📊 Objective
 
 To analyze environmental, geographical, and seasonal patterns related to the spread of water hyacinth and propose sustainable cleanup strategies.
+IS, Remote Sensing, Google Earth Engine, Environmental Analysis.
 
 ## 🔧 Tools Used
 - Python (Pandas, Seaborn, Matplotlib)
