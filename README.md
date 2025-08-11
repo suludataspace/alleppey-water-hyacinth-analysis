@@ -20,6 +20,12 @@ IS, Remote Sensing, Google Earth Engine, Environmental Analysis.
 - Action steps for sustainable cleanup
 
 
+
+
+<img width="1309" height="420" alt="image" src="https://github.com/user-attachments/assets/dea11b0e-6861-4660-a3d0-e9be254eb39e" />
+
+
+
 ## 📝 Author
 
 Made with ❤️ by Sulu  
